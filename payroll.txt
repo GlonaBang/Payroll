@@ -1,0 +1,18 @@
+
+
+Name: Simpson, Homer
+Salary: 80000.0
+Yearly net pay: 67092.48
+
+Name: Carlson, Carl
+Overtime rate: 1.5
+Hourly rate: 25.0
+Hours per pay period: 80.0
+
+Name: Leonard, Lenny
+Salary: 80000.0
+Yearly net pay: 67092.48
+
+Name: Smithers, Waylon
+Salary: 100000.0
+Yearly net pay: 82600.08

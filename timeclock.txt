@@ -1,0 +1,9 @@
+
+
+Name: Carlson, Carl
+Current logged hours: 90.0
+Overtime hours: 10.0
+Overtime pay: 500.0
+Current net paycheck: 1950.48
+Current monthly salary: 3900.96
+Current yearly salary: 50712.5

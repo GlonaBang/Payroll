@@ -1,0 +1,29 @@
+
+
+Name: Simpson, Homer
+Employee ID: Hsimpson5045
+Date of birth: [5, 12, 1950]
+Employment start date: [1, 1, 2024]
+Employee status: Salaried
+Filing status: Single
+
+Name: Carlson, Carl
+Employee ID: Ccarlson7203
+Date of birth: [4, 20, 1950]
+Employment start date: [1, 1, 2024]
+Employee status: Hourly
+Filing status: Single
+
+Name: Leonard, Lenny
+Employee ID: Lleonard2154
+Date of birth: [4, 13, 1950]
+Employment start date: [1, 1, 2024]
+Employee status: Salaried
+Filing status: Single
+
+Name: Smithers, Waylon
+Employee ID: Wsmithers8964
+Date of birth: [12, 25, 1988]
+Employment start date: [1, 1, 2024]
+Employee status: Salaried
+Filing status: Single
